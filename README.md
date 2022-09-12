@@ -1,4 +1,4 @@
-# tree-sitter-c-sharp
+# ast-grep-tree-sitter-c-sharp
 
 [![Build Status](https://github.com/tree-sitter/tree-sitter-c-sharp/workflows/build/badge.svg)](https://github.com/tree-sitter/tree-sitter-c-sharp/actions?query=workflow%3Abuild)
 
